@@ -5,6 +5,8 @@ Trivia Ninja is the solution to sharpening the ninja mind. With over 3000 unique
 
 https://trivia-ninja.herokuapp.com/
 
+https://github.com/Team7-ProjectWeek/trivia-ninja
+
 Created by Nicu Parente, Devin Griswald and Michael Porter as the seattle-301d20 capstone project.
 
 Api: https://opentdb.com/
